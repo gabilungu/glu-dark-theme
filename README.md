@@ -1,3 +1,8 @@
+cd ~/.vscode/extensions
+git clone https://github.com/gabilungu/glu-dark-theme
+
+
+
 # README
 ## This is the README for your extension "glu"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
