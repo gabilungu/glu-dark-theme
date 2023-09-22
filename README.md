@@ -1,6 +1,1 @@
-```
-cd ~/.vscode/extensions
-```
-```
-git clone https://github.com/gabilungu/glu-dark-theme
-```
+Search in extensions tab: Glu Dark Theme
