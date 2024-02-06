@@ -1,1 +1,1 @@
-Search in extensions tab: Glu Dark Theme
+ VSCode - "Glu Dark Theme"
